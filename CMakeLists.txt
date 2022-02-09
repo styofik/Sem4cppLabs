@@ -3,4 +3,5 @@ project(Sem4cppLabs)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Sem4cppLabs main.cpp)
+add_executable(TimerTest timer.cpp)
+add_executable(Sem4ccpLabs main.cpp)
